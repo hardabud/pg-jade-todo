@@ -1,0 +1,16 @@
+#content {
+	background-color: #202020;
+}
+body {
+	color: white;
+}
+#header {
+	height: 20px;
+}
+#close {
+	text-decoration: none;
+	color: white;
+}
+p {
+	font-size: 15px;
+}
